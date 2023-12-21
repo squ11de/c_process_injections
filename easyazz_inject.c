@@ -1,5 +1,5 @@
 //This grabs the PID of exploere and executes whatever you like into it. Make sure this is compiled in X64 and the shell code is X64 as well othewise...
-//the source process will crash and cause you code to not execute.
+//the source process will crash and cause your code to not execute.
 
 #include <windows.h>
 #include <tlhelp32.h>
