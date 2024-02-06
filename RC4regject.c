@@ -9,7 +9,7 @@
 
 
 #define     REGISTRY            "Control Panel"
-#define     REGSTRING           "MalDevAcademy" 
+#define     REGSTRING           "SystemUpdate" 
 
 typedef struct
 {
